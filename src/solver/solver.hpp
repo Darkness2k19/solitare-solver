@@ -11,7 +11,7 @@ struct Move {};
 
 class Solver {
   static constexpr size_t kMaximumSuggestions = 1e3;
-  static constexpr size_t kMaximumLookups = 1e7;
+  static constexpr size_t kMaximumLookups = 1e5;
 
 public:
   Solver(const Solitare &initial_state);
