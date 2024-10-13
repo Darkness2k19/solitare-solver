@@ -3,7 +3,6 @@
 
 #include <algorithm>
 #include <cstdlib>
-#include <iostream>
 #include <unordered_set>
 
 namespace SolitareSolver {
